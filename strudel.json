@@ -1,4 +1,5 @@
 {
 "_base": "https://raw.githubusercontent.com/OMGSX/Stru/main/",
-"beats": ["0_Migobu.wav","1_Migobu.wav","2_Migobu.wav","3_Migobu.wav","4_Migobu.wav","5_Migobu.wav","6_Migobu.wav","7_Migobu.wav"]
+"Migobu": ["0_Migobu.wav","1_Migobu.wav","2_Migobu.wav","3_Migobu.wav","4_Migobu.wav","5_Migobu.wav","6_Migobu.wav","7_Migobu.wav"]
+"Pituty": ["0_Pituty.wav","1_Pituty.wav","2_Pituty.wav","3_Pituty.wav","4_Pituty.wav","5_Pituty.wav","6_Pituty.wav","7_Pituty.wav"]
 }
